@@ -17,7 +17,7 @@ Para complementar tu aprendizaje en el curso de Mobile Robot, aquí tienes algun
 
 Ejemplos de clase:
 - Sistema dinámico tanques.
-- Sistema dinámicos Masa Resorte.
+- Sistema dinámico Masa Resorte.
   
 
 
