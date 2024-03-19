@@ -1,4 +1,4 @@
-# Moder Control
+# Modern Control
 
 Bienvenido al repositorio del curso de Control Moderno. Este curso está diseñado para estudiantes e investigadores interesados en el campo de Automatizacion y Control
 
